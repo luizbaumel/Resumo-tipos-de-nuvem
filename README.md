@@ -1,1 +1,6 @@
-# Resumo-tipos-de-nuvens
+# Resumo-tipos-de-nuvem
+Aprendi que os tipos de serviço em nuvem são divididos em três modelos principais: IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço).
+A IaaS é responsável por oferecer servidores, armazenamento, rede, segurança e a infraestrutura física do datacenter. Esse modelo é mais flexível, pois o cliente tem o controle sobre o sistema operacional, a configuração de hardware e os aplicativos que deseja instalar e utilizar.
+A PaaS engloba tudo o que a IaaS oferece e acrescenta sistemas operacionais, ferramentas de desenvolvimento, gerenciamento de banco de dados e análise de negócios. É voltada para desenvolvedores, já que o provedor de nuvem cuida da gestão da plataforma, enquanto o cliente foca apenas no desenvolvimento das aplicações.
+Já o SaaS fornece aplicativos prontos e hospedados na nuvem, acessados diretamente pela internet. Exemplos incluem o Microsoft Office 365, serviços de e-mail e calendários. Nesse modelo, todo o gerenciamento é feito pelo provedor de nuvem, e o cliente apenas utiliza o software.
+Esses três modelos seguem o conceito de responsabilidade compartilhada, no qual algumas responsabilidades são do provedor e outras do cliente. Além disso, o modelo de cobrança geralmente é baseado em assinatura ou conforme o uso, garantindo que os usuários paguem apenas pelos recursos ou softwares que utilizam.
